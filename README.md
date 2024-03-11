@@ -20,5 +20,5 @@ Builds and watches the app for development.
 
 ### Add the `dist` dictory on the `Chrome extension`
 
-Go [Chrome extension](chrome://extensions/) and make sure the `Developer mode` on in the right-top side of the page
+Go chrome://extensions/ and make sure the `Developer mode` on in the right-top side of the page
 click the `Load unpacked` button and select the `dist` folder.
