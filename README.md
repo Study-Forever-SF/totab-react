@@ -1,8 +1,8 @@
 ## ToTab chrome extension
 
-### `npm run dev`
+## `npm i`
 
-Builds and watches the app for development.
+Installs all dependencies.
 
 ### `npm run build`
 
@@ -13,3 +13,12 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run dev`
+
+Builds and watches the app for development.
+
+### Add the `dist` dictory on the `Chrome extension`
+
+Go [Chrome extension](chrome://extensions/) and make sure the `Developer mode` on in the right-top side of the page
+click the `Load unpacked` button and select the `dist` folder.
