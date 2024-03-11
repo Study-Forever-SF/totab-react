@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "ToTab chrome extension",
+  "version": "1.0",
+  "description": "Description of my extension",
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Open"
+  },
+  "permissions":[
+    "scripting"
+  ]
+}
