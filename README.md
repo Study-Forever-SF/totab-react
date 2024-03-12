@@ -18,7 +18,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 Builds and watches the app for development.
 
-### Add the `dist` dictory on the `Chrome extension`
+### Set `Chrome extension` developer mode
 
-Go chrome://extensions/ and make sure the `Developer mode` on in the right-top side of the page
-click the `Load unpacked` button and select the `dist` folder.
+Type chrome://extensions/ in the address bar and press Enter, or go to the three-dot menu in the top-right corner of the Chrome window, select `More tools`, and then choose `Extensions`.\
+Make sure the `Developer mode` on in the right-top side of the page.\
+Click the `Load unpacked` button and select the `dist` folder.\
